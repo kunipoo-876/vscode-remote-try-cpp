@@ -15,8 +15,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
-				"ms-vsliveshare.vsliveshare"
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	}
